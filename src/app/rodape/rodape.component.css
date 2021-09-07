@@ -1,0 +1,23 @@
+ul.social-network{
+   list-style: none; 
+   padding: 0;
+}
+ul.social-network li{
+display:inline ;
+margin: 0;
+padding: 5 px;
+}
+.fa{
+    font-size:35pt;
+    color:blueviolet;
+    padding:10px;
+}
+.fa- fecebook-square:houver{
+color:blueviolet;
+}
+.fa-instagram houver{
+    color:crimson;
+}
+.fa-linkedin houver{
+    color:darkkhaki;
+}
